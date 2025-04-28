@@ -2,8 +2,8 @@
   "name": "MORA LOCAL",
   "short_name": "MORA LOCAL",
   "description": "MORA LOCAL",
-  "start_url": "/home",
-  "scope": "/",
+  "start_url": "localhost:3000/home",
+  "scope": "localhost:3000/",
   "display": "standalone",
   "theme_color": "#2196F3",
   "background_color": "#2196F3"

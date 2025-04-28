@@ -2,8 +2,8 @@
   "name": "MORA",
   "short_name": "MORA",
   "description": "MORA",
-  "start_url": "/home",
-  "scope": "/",
+  "start_url": "https://app.thenewtech.vn/home",
+  "scope": "https://app.thenewtech.vn/",
   "display": "standalone",
   "theme_color": "#2196F3",
   "background_color": "#2196F3"
