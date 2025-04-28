@@ -1,7 +1,7 @@
 {
-  "name": "MORA",
-  "short_name": "MORA",
-  "description": "MORA",
+  "name": "MORA 2",
+  "short_name": "MORA 2",
+  "description": "MORA 2",
   "start_url": "/home",
   "scope": "/",
   "display": "standalone",
