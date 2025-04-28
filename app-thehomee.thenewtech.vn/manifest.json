@@ -1,7 +1,7 @@
 {
-  "name": "MORA STG",
-  "short_name": "MORA STG",
-  "description": "MORA STG",
+  "name": "THE HOMEE",
+  "short_name": "THE HOMEE",
+  "description": "THE HOMEE",
   "start_url": "/home",
   "scope": "/",
   "display": "standalone",
