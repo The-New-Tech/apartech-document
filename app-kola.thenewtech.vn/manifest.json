@@ -2,8 +2,8 @@
   "name": "KOLA",
   "short_name": "KOLA",
   "description": "KOLA",
-  "start_url": "https://app-kola.thenewtech.vn/home",
-  "scope": "https://app-kola.thenewtech.vn/",
+  "start_url": "/home",
+  "scope": "/",
   "display": "standalone",
   "theme_color": "#2196F3",
   "background_color": "#2196F3"
