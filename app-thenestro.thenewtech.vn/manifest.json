@@ -1,0 +1,10 @@
+{
+  "name": "THE NESTRO",
+  "short_name": "THE NESTRO",
+  "description": "THE NESTRO",
+  "start_url": "https://app-thenestro.thenewtech.vn/home",
+  "scope": "https://app-thenestro.thenewtech.vn/",
+  "display": "standalone",
+  "theme_color": "#2196F3",
+  "background_color": "#2196F3"
+}
